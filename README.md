@@ -1,1 +1,2 @@
-# odin-recipes
+odin-recipes
+Introduction: This is a basic project that challenges me to build a website to train my HTML skills. It is a recipe website which will have different webpages with recipes. I will learn how to use github and do commit messages as well.
